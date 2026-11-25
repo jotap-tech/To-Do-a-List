@@ -13,5 +13,3 @@ Lista de tarefas simples feita com **React + Vite**.
 npm install
 npm run dev
 ```
-# To-Do-a-List
-# To-Do-a-List
